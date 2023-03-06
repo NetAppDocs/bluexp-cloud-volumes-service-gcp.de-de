@@ -31,11 +31,9 @@ Beim Hinzufügen eines Abonnements für jedes Projekt müssen Sie über die folg
 
 
 .Schritte
-. Fügen Sie in BlueXP eine neue Arbeitsumgebung hinzu, wählen Sie den Standort *Google Cloud* aus und klicken Sie auf *Weiter*.
-. Wählen Sie *Cloud Volumes Service* und klicken Sie auf *Weiter*.
-+
-image:screenshot_add_cvs_gcp_working_env.png["Ein Screenshot, wie eine Arbeitsumgebung für ein Cloud Volumes Service für GCP-Abonnement hinzugefügt wird"]
-
+. Wählen Sie im Navigationsmenü von BlueXP *Storage > Canvas*.
+. Klicken Sie auf der Bildschirmseite auf *Arbeitsumgebung hinzufügen* und wählen Sie *Google Cloud Platform*.
+. Wählen Sie neben Cloud Volumes Service *Entdecken*.
 . Stellen Sie Informationen zu Ihrem Cloud Volumes Service Abonnement bereit:
 +
 .. Geben Sie den Namen der Arbeitsumgebung ein, den Sie verwenden möchten.
