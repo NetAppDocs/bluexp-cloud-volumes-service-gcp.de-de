@@ -47,7 +47,7 @@ https://cloud.netapp.com/cloud-volumes-global-regions#cvsGc["Unterstützte Googl
 
 == Bevor Sie beginnen
 
-BlueXP kann vorhandene Cloud Volumes Service für GCP-Abonnements und -Volumes ermitteln. Siehe https://cloud.google.com/solutions/partners/netapp-cloud-volumes/["NetApp Cloud Volumes Service für Google Cloud - Dokumentation"^] Wenn Sie Ihr Abonnement noch nicht eingerichtet haben.
+BlueXP kann vorhandene Abonnements und Volumes für Cloud Volumes Service für Google Cloud erkennen und erkennen. Siehe https://cloud.google.com/solutions/partners/netapp-cloud-volumes/["NetApp Cloud Volumes Service für Google Cloud - Dokumentation"^] Wenn Sie Ihr Abonnement noch nicht eingerichtet haben.
 
 
 

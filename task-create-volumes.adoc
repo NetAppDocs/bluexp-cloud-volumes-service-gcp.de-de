@@ -23,7 +23,7 @@ Mit BlueXP können Sie Cloud Volumes auf Basis Ihres Cloud Volumes Service für 
 NFS- oder SMB-Volumes werden in einem neuen oder vorhandenen Cloud Volumes Service für Google Cloud Konto erstellt. Cloud Volumes unterstützen derzeit NFSv3 und NFSv4.1 für Linux- und UNIX-Clients und SMB 3.x für Windows-Clients.
 
 .Bevor Sie beginnen
-* Wenn Sie SMB in GCP verwenden möchten, müssen Sie DNS und Active Directory einrichten.
+* Wenn Sie SMB in Google Cloud verwenden möchten, müssen Sie DNS und Active Directory eingerichtet haben.
 * Wenn Sie planen, ein SMB-Volume zu erstellen, müssen Sie über einen Windows Active Directory-Server verfügen, mit dem Sie eine Verbindung herstellen können. Sie geben diese Informationen bei der Erstellung des Volumes ein. Stellen Sie außerdem sicher, dass der Admin-Benutzer in der Lage ist, ein Maschinenkonto im angegebenen Organisationseinheit-Pfad (OU) zu erstellen.
 
 
@@ -151,6 +151,6 @@ image:screenshot_cvs_aws_smb_mount.png["Mount-Anweisungen für SMB Volumes"]
 
 . Ordnen Sie Ihr Netzlaufwerk zu, indem Sie den Mount-Anweisungen für Ihre Instanz folgen.
 +
-Nach Abschluss der Schritte in der Mount-Anleitung ist das Cloud-Volume erfolgreich in die GCP-Instanz eingebunden.
+Nachdem Sie die Schritte in den Mount-Anweisungen ausgeführt haben, haben Sie das Cloud-Volume erfolgreich auf Ihre Google Cloud-Instanz gemountet.
 
 

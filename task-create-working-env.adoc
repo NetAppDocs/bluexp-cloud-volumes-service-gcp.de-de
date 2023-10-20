@@ -16,9 +16,9 @@ summary: Erstellen Sie eine Arbeitsumgebung für Cloud Volumes Service für Goog
 [role="lead"]
 Erstellen Sie eine Cloud Volumes Service für Google Cloud Arbeitsumgebung in BlueXP, damit Sie Volumes und Snapshots erstellen und managen können.
 
-Unabhängig davon, ob Sie bereits Volumes über die Google Cloud Console erstellt haben oder sich gerade für Cloud Volumes Service für Google Cloud angemeldet haben und noch keine Volumes haben, müssen Sie im ersten Schritt eine Arbeitsumgebung für die Volumes erstellen, die auf Ihrem GCP-Abonnement basiert.
+Unabhängig davon, ob Sie bereits Volumes aus der Google Cloud Console erstellt haben oder ob Sie sich gerade für Cloud Volumes Service für Google Cloud angemeldet haben und noch keine Volumes haben, besteht der erste Schritt darin, basierend auf Ihrem Google Cloud Abonnement eine Arbeitsumgebung für die Volumes zu erstellen.
 
-Wenn bereits Cloud Volumes für dieses Abonnement vorhanden sind, werden die Volumes in der neuen Arbeitsumgebung angezeigt. Wenn Sie noch keine Cloud Volumes für das GCP Abonnement hinzugefügt haben, gehen Sie nach dem Erstellen der neuen Arbeitsumgebung vor.
+Wenn bereits Cloud Volumes für dieses Abonnement vorhanden sind, werden die Volumes in der neuen Arbeitsumgebung angezeigt. Wenn Sie noch keine Cloud Volumes für das Google Cloud-Abonnement hinzugefügt haben, tun Sie dies, nachdem Sie die neue Arbeitsumgebung erstellt haben.
 
 
 TIP: Wenn Sie Abonnements und Volumes in mehreren Google Cloud-Projekten haben, müssen Sie diese Aufgabe für jedes Projekt ausführen.
@@ -41,7 +41,7 @@ Beim Hinzufügen eines Abonnements für jedes Projekt müssen Sie über die folg
 .. Wählen Sie den Namen Ihres Google Cloud-Projekts aus.
 .. Klicken Sie Auf *Weiter*.
 +
-image:screenshot_add_cvs_gcp_credentials.png["Screenshot mit den Zugangsdaten für ein Cloud Volumes Service für ein GCP-Abonnement"]
+image:screenshot_add_cvs_gcp_credentials.png["Ein Screenshot des Hinzufügens von Zugangsdaten für ein Abonnement von Cloud Volumes Service für Google Cloud."]
 
 
 
