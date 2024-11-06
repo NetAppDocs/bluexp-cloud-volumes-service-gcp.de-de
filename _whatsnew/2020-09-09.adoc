@@ -1,0 +1,15 @@
+= Unterstützung von Cloud Volumes Service für Google Cloud
+:allow-uri-read: 
+
+
+
+
+=== Unterstützung von Cloud Volumes Service für Google Cloud
+
+Sie können Cloud Volumes Service für Google Cloud jetzt direkt über BlueXP verwalten:
+
+* Einrichten und Erstellen einer Arbeitsumgebung
+* Erstellen und managen Sie NFSv3 und NFSv4.1 Volumes für Linux- und UNIX-Clients
+* Erstellen und managen Sie SMB 3.x Volumes für Windows Clients
+* Erstellung, Löschung und Wiederherstellung von Volume Snapshots
+
